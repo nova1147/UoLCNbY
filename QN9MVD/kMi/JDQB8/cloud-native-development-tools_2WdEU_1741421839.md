@@ -191,7 +191,6 @@ the covered work, and you disclaim any intention to limit operation or
 modification of the work as a means of enforcing, against the work's
 users, your or third parties' legal rights to forbid circumvention of
 technological measures.
-
   4. Conveying Verbatim Copies.
 
   You may convey verbatim copies of the Program's source code as you
