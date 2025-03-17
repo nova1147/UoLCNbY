@@ -43,7 +43,6 @@ scoring = 'accuracy'
 models = []
 models.append(('LR', LogisticRegression()))
 models.append(('LDA', LinearDiscriminantAnalysis()))
-models.append(('KNN', KNeighborsClassifier()))
 models.append(('DT', DecisionTreeClassifier()))
 models.append(('NN', MLPClassifier(solver='lbfgs')))
 models.append(('NB', GaussianNB()))
