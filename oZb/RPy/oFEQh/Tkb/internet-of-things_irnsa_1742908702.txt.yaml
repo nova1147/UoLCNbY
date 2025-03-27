@@ -66,7 +66,6 @@ components: &components
   - homeassistant/components/blueprint/**
   - homeassistant/components/bluetooth/**
   - homeassistant/components/cloud/**
-  - homeassistant/components/config/**
   - homeassistant/components/configurator/**
   - homeassistant/components/conversation/**
   - homeassistant/components/demo/**
