@@ -12,7 +12,6 @@ RUN go mod init
 # 构建应用
 RUN go build -o easydarwin .
 
-EXPOSE 554
 EXPOSE 10008
 
 # 启动应用
