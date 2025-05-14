@@ -12,7 +12,6 @@ RUN go mod init
 # 构建应用
 RUN go build -o easydarwin .
 
-# 暴露所需的端口
 EXPOSE 554
 EXPOSE 10008
 
